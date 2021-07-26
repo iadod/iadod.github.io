@@ -30,6 +30,7 @@ things? Lets assume equal distance needed to be physically traveled and restrict
 Information Storage -> Sort -> Search -> Retrieve -> Actuate/Modify -> Replace
 
 Memory < Compute = Stochastic
+
 Memory > Compute = Organized
 
 In the stochastic example, more energy is needed in real time to search and retrieve. But less energy was needed in the first place to organize the 
