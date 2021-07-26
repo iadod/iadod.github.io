@@ -1,4 +1,5 @@
 See: Maxwells Demon
+
 See: Entropy
 
 Information storage is a way of temporarily inhibiting entropy. 
