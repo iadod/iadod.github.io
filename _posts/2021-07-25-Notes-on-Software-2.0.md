@@ -18,7 +18,7 @@ The Neural Net Architecture is still explicitly written as the “skeleton”of 
 		
    the search can be optimized with back propagation and stochastic gradient descent
 
-Back Propagation 
+Back Propagation: 
 	
   can be thought of as a class of algorithms
 	
@@ -26,17 +26,17 @@ Back Propagation
 	
   this is an example of dynamic programming
 
-Gradient 
+Gradient: 
 	
   In vector calculus it is the gradient of Scalar-value differential function of several variables
 	
   Its is represented as a vector field
 
-Loss Function
+Loss Function:
 	
   function that maps values into a real number intuitively representing the “cost” of an event
 
-Dynamic Programming
+Dynamic Programming:
 	
   mathematical optimization method and a computer programming method
 	
@@ -78,23 +78,23 @@ Speech Recognition
 	
   Stochastic model of pseudo random changing systems.  Future state is only dependent on current state. 
 
-Speech Synthesis
+Speech Synthesis:
 	
   ConvNets Like WaveNet
 
 Machine Translation 
 
-Games
+Games:
 	
   like AlphaGo
 
-Data Bases
+Data Bases:
 	
   Replaces traditional data management systems, out performing cache optimized B-trees
 
   B-tree is a self balancing data structure.
 
-Convolutional Neural Networks (ConvNets)
+Convolutional Neural Networks (ConvNets):
 	
   class of deep neural networks
 	
@@ -110,15 +110,15 @@ Convolutional Neural Networks (ConvNets)
 	 
    “hallucinating” images, sounds, and text with generative models
 
-"One Model to rule them all”
+   "One Model to rule them all”
 
-Computationally Homogenous 
+Computationally Homogenous: 
 	
   NN’S are primarily 2 operations 
 		
    Matrix multiplication & thresholding at zero (ReLU)
 	
-  Thresholding 
+  Thresholding: 
 	
   Separate out regions of an image to analyze, i.e.: differentiate pixels 
 	
@@ -128,7 +128,7 @@ Instruction set of a NN is relatively small, implementation is “much closer to
 	
   neuromorphic chips are meant to mimic neuro biological architectures
 
-Constant Run Time
+Constant Run Time:
 	
   all NN foreward passes take the same amount of flops, there is no complex path through large codebases. 
 	
@@ -136,26 +136,26 @@ Constant Run Time
 	
   less likely to be caught in infinite loops
  
-Memory Use
+Memory Use:
 	
   There is no dynamically allocated memory, low possibility of swapping to disk.
 
-Portable
+Portable:
 	
   Sequence of matrix multiplies is significantly easier to run on arbitrary configurations as compared to binaries to scripts. 
 
-Agility
+Agility:
 	
   Easy to modify is runtime at cost of performance. Simply remove channels. channels are essentially all made of the same architecture. The same ease of use is true for adding channels with more data.
 
-Limitations	
+Limitations:	
 
-Explainability
+Explainability:
 	At the end of the optimization it is hard to tell how they work. 
 	this is an ongoing topic in ai (clarity).
 	Silently adopt biases
 
-Takeaway
+Takeaway:
 	2.0 can be viewed as another tool within 1.0 (NN’s) or can be understood as a whole new paradigm in itself (essentially what Karpathy argues).
 	There remains much work to be done to support the new stack for example IDE’s, Repositories, tooling etc.
 
