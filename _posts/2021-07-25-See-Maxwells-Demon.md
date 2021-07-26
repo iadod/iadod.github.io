@@ -59,7 +59,7 @@ This comes at the expense of initial energy required to establish the tool base 
 
 Predetermined locations require energy to maintain. 
 
-The difference hinges on weather or not there is perfect memory of the stochastic framework. If not, much energy is needed to compute search and 
+The difference hinges on wether or not there is perfect memory of the stochastic framework. If not, much energy is needed to compute search and 
 retrieve. In a computer analogy: one is RAM and the other is disk.  
 
 I don’t know which data storage mechanism is more efficient. 
