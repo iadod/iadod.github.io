@@ -10,13 +10,13 @@ Software 1.0 consists of explicit instructions written in C++, Python etc
 	
   Specify some goal on the behavior of a desirable out come 
   
-	Create a data set of input out put pairs
+Create a data set of input out put pairs
 
 The Neural Net Architecture is still explicitly written as the “skeleton”of the code 
 	
   it Identifies a subset of program space to search
 		
-    the search can be optimized with back propagation and stochastic gradient descent
+   the search can be optimized with back propagation and stochastic gradient descent
 
 Back Propagation 
 	
@@ -44,9 +44,7 @@ Dynamic Programming
 
 1.0 consists of human engineered code that compiles into binary
 
-2.0 consists of the data set that defines desirable behavior &
-			
-      the network architecture
+2.0 consists of the data set that defines desirable behavior & the network architecture
 	
   the weights are all filled in by the model
 	
@@ -54,7 +52,7 @@ Dynamic Programming
 
 *Neural Network Architectures and training systems are increasingly standardized into a commodity.
 		
-    ?Is this like Tensor Flow and PyTorch?
+   ?Is this like Tensor Flow and PyTorch?
 
 So, 2.0 software development is mostly curating, growing, massaging and cleaning labeled data sets
 	
@@ -74,7 +72,7 @@ Speech Recognition
 	
   Gaussian Mixture Model
 		
-    Statistical probabilistic model for predicting sub populations in a larger population. No observed data set is needed to identify the sub pop
+   Statistical probabilistic model for predicting sub populations in a larger population. No observed data set is needed to identify the sub pop
 	
   Markov Models
 	
@@ -118,7 +116,7 @@ Computationally Homogenous
 	
   NN’S are primarily 2 operations 
 		
-    Matrix multiplication & thresholding at zero (ReLU)
+   Matrix multiplication & thresholding at zero (ReLU)
 	
   Thresholding 
 	
