@@ -2,7 +2,7 @@ The thing with cryptos is not to consolidate wealth in the current economy. It i
 
 Transactions will happen millions of times per second and will mostly be between autonomous agents. Automated micro payments will exist as a base layer in the economy, occurring simultaneously, continuously. Money, or, value will transfer between nodes (human or machine) with very low friction. Idealistically, goods and services in the economy will approach the most accurate prices ever. Things will be priced correctly so long as decentralized networks maintain a presence in the market. You can pay by acknowledgment. You can pay as little as you’d like for something. There is potential for all of this to happen without explicit authority. The functionality will be implicit within the global brain. the ai. the abstraction layer built on top of human-machine interface. 
 
-The key here is that “crypto” or “blockchain” as we know it today is simply a piece of the puzzle. These systems are only relevant in the context of the compute available for resource allocation (resource allocation for information processing). Greater resource allocation can be achieved in two ways: through increase in compute (increase transistors) or through better use of compute already available. Both trends are developed in parallel at large scale. Blockchain, in some sense, is the killer app that helps us better use existing compute. 
+The key here is that “crypto” or “blockchain” as we know it today is simply a piece of the puzzle. These systems are only relevant in the context of the compute available for resource allocation (resource allocation for information processing). Greater resource allocation can be achieved in two ways: through increase in compute (increase transistors) or through better use of compute already available. Both trends are developed in parallel at large scale. "Blockchain(s)", in some sense, is the killer app that helps us better use existing compute. 
 
 This space is directly relevant to software 2.0 and machine learning. They facilitate each others progress. 
 
@@ -18,6 +18,6 @@ To predict a gas molecule, think of maxwells demon. See my other write up. What 
 
 In the context of 2.0 and distributed compute, value is associated with finding this lowest cost framework for information. 
 
-
+Distributed peer to peer encrypted blockchains may be a very good way to achieve this.
 
 
