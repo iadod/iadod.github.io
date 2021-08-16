@@ -11,7 +11,7 @@ This creates opportunity for business.  But how can a business be created and gr
 there must be at least some pool of labor
 so how do you organize that labor?
 
-This is the question, the only question that matters.  Even if one man works indefinitely what is the impact?
+This is the question, the only question that matters. "How do you orgainze labor?"  Even if one man works indefinitely what is the impact?
 
 you must organize people
 there must be incentive and compensation 
