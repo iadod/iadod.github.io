@@ -14,6 +14,7 @@ so how do you organize that labor?
 This is the question, the only question that matters. "How do you orgainze labor?"  Even if one man works indefinitely what is the impact?
 
 you must organize people
+
 there must be incentive and compensation 
 
 demand is there. Services will need to be served, products will need to be produced. 
@@ -29,6 +30,7 @@ where is the line between working independently and allocating work to others?
 how can one be confident enough to offer a full time position to someone? 
 
 just how valuable will trade work become?
+
 what is the shortage actually?
 
 even in a blue collar state, there is not enough trade labor. even when it looks like every one has a truck with tools. this is the community I want to live in. where everyone works to build it. 
