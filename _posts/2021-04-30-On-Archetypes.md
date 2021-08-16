@@ -2,9 +2,9 @@ Christianity is a robust ideological framework that has stood the test of time.
 Why?
 There seems to be an anicdote for nearly every life situatuion. A verse you can draw from.
 This is Interesting, what traits of the story, the scripture or word make it so thorough? 
-It is, essentially a narrative passed down for generations..
+It is, essentially just a narrative passed down for generations..
 
-I have this concept that It is the perfect Archetype. It is so good, so believable because it 
+I have this concept that It is the perfect Archetype. It is so good, so relatable because it 
 represents perfect architypal traits for any individual. So, any person can read scripture and 
 find some level of cohesion, some relation to the anicdote before them.
 
@@ -36,7 +36,7 @@ The Jungian architypes are just a much more detailed analogy to the human condit
 they are a framework, on an explicit anicdote which you or I as an individual can easliy relate to.
 
 The Bible has essentially built the most compelling narrative on top of this framework. Now, Jungian
-architypes did not come before the bible, but I think what carl jung was able to articulate is some
+architypes did not come before the bible, but I think what Carl Jung was able to articulate is some
 sort of framework that appears to underwrite the human condition and may even be a part of our cognitive 
 architecture, part of our nature. The Bible clued into the same phenomena but wrote a story instead of 
 explicitly defining the underlying infrastructure. 
@@ -48,13 +48,16 @@ abstract away the cohesive underlying frameworks.
 
 Now what I find quite interesting is the contrast Budhism offers. I think in some ways, budhism is uniquely
 different from all other forms of religion. Specifically Zen. Because it does not leverage narritives
-in the same ways all other religions do. Zen appears to even make fun of narratives. Repeatadly forcing
+in the same ways all other religions do. Zen appears to even make fun of narratives. Repeatedly forcing
 the student to distill their state of conciousness away from words, narratives, cognitive frameworks. Its 
 as if Zen mind has clued into this more intrinsic aspect of reality. Like it engages some substrate that 
 is in fact more foundational than the architypical frameworks them selves. Something like:
 
 Zen mind -> architypal cognitive frameworks -> narratives (ie Bible).
-<br>
+
+--
+
+cont. 
 
 on the need for mythologies in modern society (or the lack thereof)
 
@@ -69,28 +72,29 @@ This phenomena makes society as a whole vulnerable to involuntary authoritation 
 
 If we dont uphold the "hero" archetype in our own conciousness then some entity will fill the void.
 
-In my understanding thus far Yarvin insists that some form of monarchy is superior system to govern 
+In my understanding thus far Yarvin insists that some form of monarchy is a superior system to govern 
 a society. In some sense insisting that there should be tech monarchys or other systems that leverage 
 some intelligent hero type leader. I extrapolate this to imply that any system that does not have a 
 clear "hero" or leader in place will crumble under ambiguity. Under susch a system, individuals can 
 operate as libertarians so long as it is voluntary. This is where it connects to Rands emphasis on the 
 individual and voluntary society. 
 
-So in a sense, a good framework for polital ideology or power structure should contain the powerful 
+So in a sense, a good framework for political ideology or power structure should contain the powerful 
 leader as the hero archetype in order to fulfill the fundamental human psycology. 
 
-See: Jungs 12 archetypes
-Mencius Moldbug
-Rand
-Lex w/ Yaron and malice
-Religious frameworks
+See: 
+Jungs 12 archetypes,
+Mencius Moldbug,
+Rand,
+Lex w/ Yaron and malice,
+Religious frameworks,
 Jordan Peterson
 
 Why do societys need governing?
 
 What are the key themes that lead to mass adoption of a framework? 
-United States
-Bible
+United States,
+Bible,
 etc. 
 
 Can AI be an implicit form of governance / Trust? 
