@@ -24,7 +24,7 @@ collectively we inhibit entropy, this seems to be a function of the human condit
 
 so, why not be an inhibitor? better to be an inhibitor as an individual then to inhibit on behalf of others. because, incentives will not be aligned.
 
-it seems the trick is to have a collective of people who’s incentives are optimally aligned, whose loss functions are the same. 
+it seems the trick is to have a collective of people who’s incentives are optimally aligned, whose loss functions are similar. 
 
 where is the line between working independently and allocating work to others?
 how can one be confident enough to offer a full time position to someone? 
