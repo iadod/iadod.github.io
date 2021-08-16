@@ -45,10 +45,10 @@ everyone plays a direct role in the creation and maintenence of it, and niches a
 no one can gain disproportional value from the system and the cost of goods and services are accurate. 
 
 How do you incentivize projects?
-credit and debit serve this purpose. Making a deal with the future. 
+credit and debt serve this purpose. Making a deal with the future. 
 
-I want my project to get funding. but no one has large caches of extra capitol, so it is hard to fund. 
-if this is the case then the project must be so compelling that people will have to desire to help. allocating their labor. instead of capitol. 
+I want my project to get funding. but no one has large enough caches of extra capitol, so it is hard to fund. 
+if this is the case then the project must be so compelling that people will have to <i>desire<i/> to help. allocating their labor. instead of capitol. 
 this creates a psychological problem. 
 
 this must be where we get marketing. 
@@ -70,7 +70,7 @@ is this like a hedge against the economy?  like if money loses its value and lab
 this is made difficult when authority solves the problem with more money. creating less incentive to work, less incentive to gain skills.
 resulting in some cohort of individuals who have the perception that they cannot work and an incentive structure not to try. 
 
-what doe this leave business to do?
+what does this leave business to do?
 
 how do you fill the void?
 
@@ -82,4 +82,4 @@ The current narrative is robotics and automation (ai). but the funny thing is th
 
 the last things to be automated are the base services of the economy like plumbers, welders, builders. so, with the deployment of ai across the economy, there will initially be an exaggerated shortage of labor because the incentives will continue to drive talent and labor to higher abstraction layers in the economy. 
 
-until all thats left is the farmers and ranchers who couldn’t give a fuck anyway. 
+at some point, all thats left are the farmers and ranchers who couldn’t give a fuck anyway. 
