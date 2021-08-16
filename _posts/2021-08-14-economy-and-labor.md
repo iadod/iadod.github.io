@@ -18,7 +18,7 @@ you must organize people
 there must be incentive and compensation 
 
 demand is there. Services will need to be served, products will need to be produced. 
-look around. people are moving, the economy is alive, matter is organized. you can do this organization. we inhibit entropy. 
+look around. people are moving, the economy is alive, matter is organized. <i>we</i> can do this organization. <i>we</i> inhibit entropy. 
 
 collectively we inhibit entropy, this seems to be a function of the human condition. an axiom, if you will. 
 
