@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 About Site:
+
 So, I have a habit of taking notes on my phone, laptop and desktop. Then going back and elaborating on them. Then if they are long enough, I post here. I like lightweight editors like notepad. 
 
 About Me:
