@@ -40,6 +40,7 @@ if one question is how to fill the void, the other question is how was it create
 why is finance and marketing so lucrative when there is no actual value creation? This tells me that fundamental value creation in the economy is under valued and that the abstraction layers just do a better job of taking a piece of the pie. 
 
 Lets say you have an economy:
+
 everyone plays a direct role in the creation and maintenence of it, and niches are filled accordingly. 
 no one can gain disproportional value from the system and the cost of goods and services are accurate. 
 
