@@ -3,7 +3,7 @@ author:
   name: Ian Dodds
   email: ianbdodds@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
- A Home for hastily published writing based on my notes and observations.
+ An assortment of hastily published writing based on notes and observations.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
