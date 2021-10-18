@@ -28,5 +28,6 @@ Climbing in Yosemite = really good, but piss everywhere
 Worked in Manufacturing: its cool to iterate on things and build them fast
 
 Work for myself: independent contractor, limited liability corporation, colon:
+Bozeman Operations LLC
 
 
