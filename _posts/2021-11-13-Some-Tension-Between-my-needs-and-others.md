@@ -4,11 +4,11 @@ On one hand build a company, solve a problem, acquire capitol. "Solve problem fo
 
 On the other build a farm, solve problems, acquire things. "Solve my own problems."
 
-The former is actually kind of depressing because there is no problem that needs to be solved that isnt already
-	*specificically for human survival*
+The former is actually kind of depressing because there is no problem that needs to be solved that isnt already,
+	*specificically for human survival.*
 
-Now, for human suffering, this is a different question. 
-There is also the question of en evolving set of conditions necessary to allow for longer and longer term survival. 
+Although, for human suffering, this is a different question. 
+There is also the question of en evolving set of conditions necessary to allow for longer and longer term survival. More on this some other time..
 
 What appears to be most necessary is the need to consolidate solutions that already exist and make them accessible to those who are curious. 
 
