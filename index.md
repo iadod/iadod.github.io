@@ -1,9 +1,13 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: home
+layout: default
+title: Home
 ---
+
+<div style="
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 16px;
+  padding: 20px;
+">
+  <img src="/assets/img000004.jpg" style="width:100%; border-radius:4px;">
+</div>
