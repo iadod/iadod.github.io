@@ -10,4 +10,5 @@ title: Home
   padding: 20px;
 ">
   <img src="assets/image000004.JPG" style="width:100%; border-radius:4px;">
+  <img src="assets/0605171015b.jpg" style="width:100%; border-radius:4px;">
 </div>
