@@ -1,6 +1,7 @@
+---
 layout: page
 title: Resume
-permalink: /resume.md/
+permalink: /resume/
 ---
 
 <iframe 
@@ -11,3 +12,5 @@ permalink: /resume.md/
 </iframe>
 
 <p><a href="/assets/IanDodds_Resume_032326 (1).pdf" download>⬇ Download PDF</a></p> 
+
+
