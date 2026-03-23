@@ -3,31 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-About Site:
+My efforts are ultimately geared towards turning my labor into neaural network weights. 
 
-So, I have a habit of taking notes on my phone, laptop and desktop. Then going back and elaborating on them. Then if they are long enough, I post here. I prefer lightweight editors like notepad. 
-
-About Me:
-
-Name:Ian
-
-Livein: Montana
-
-Drive: Ford Ranger
-
-Bachelor of: Earth Science
-
-Mountain Guide: Beartooths
-
-Climbing in Patagonia = Character building
-
-Climbing in Alaska = Cold
-
-Climbing in Yosemite = really good, but piss everywhere
-
-Worked in Manufacturing: its cool to iterate on things and build them fast
-
-Work for myself: independent contractor, limited liability corporation, colon:
-Bozeman Operations LLC
 
 
