@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Abstract
+permalink: /abstract/
 ---
 My efforts are ultimately geared towards turning my labor into neural network weights. They are already stored in my brain as synapses between neurons. We as humans codify these synapses onto silicone. There is a threshold at which there is enough information encoded onto silicone that a machine can operate in any way a human can. At this point labor will be optional, depending on your social class, and the value of goods and services will plummet. In the meantime we will attempt to inject artificial scarcity into the market but the only things left of value will be natural resources which we cannot synthesize. Then, in a search for larger amounts of natural resources we will be drawn off the planet. But alas we will send our machines because our biological neurons are not stable in vacuum. 
 
