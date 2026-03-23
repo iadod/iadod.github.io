@@ -8,6 +8,7 @@ My efforts are ultimately geared towards turning my labor into neural network we
 We are all laborers. Our usefulness is in converting electricity from our brain into mechanical movement of our limbs and sound waves. Whether you type on a keyboard or dig a ditch you are ultimately expressing physical movement. And, ultimately physical movement which displaces mass. 
 
 My modus operandi used to be:
+
 w = f(s)
 
 I thought that if I optimized for displacing mass in and of itself then I would be doing something useful. But this is not true otherwise we would all be pushing rocks up the hill with sisyphus. Instead the correct optimization is something like:
