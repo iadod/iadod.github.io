@@ -1,9 +1,9 @@
-title: Notes n Obs 
+title: Ian Dodds 
 author:
   name: Ian Dodds
-  email: ianbdodds@gmail.com
+  email: ian@bznops.io
 description: > # this means to ignore newlines until "show_excerpts:"
- An assortment of hastily published writing based on notes and observations. Allow room for nuance.
+ A digital presence for my physical self. 
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -19,7 +19,7 @@ minima:
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    instagram: _dodd_z
+    instagram: IanDodds_
     linkedin: ian-dodds-945301187
     # pinterest: jekyll
     # youtube: jekyll
