@@ -45,7 +45,7 @@ minima:
     #   instance: example.com
 
 header_pages:
-  - about.md
+  - abstract.md
   - resume.md
   - substack.md
 
