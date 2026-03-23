@@ -9,5 +9,5 @@ title: Home
   gap: 16px;
   padding: 20px;
 ">
-  <img src="assets/3c2c2594-90eb-4735-bc84-0c0305ba89ba.jpg" style="width:100%; border-radius:4px;">
+  <img src="assets/IMG_1549.JPG" style="width:100%; border-radius:4px;">
 </div>
