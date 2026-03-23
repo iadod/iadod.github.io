@@ -5,9 +5,9 @@ permalink: /resume/
 ---
 
 <iframe 
-  src="/assets/IanDodds_Resume_032326 (1).pdf" 
-  width="100%" 
-  height="900px" 
+  src="https://docs.google.com/viewer?url=https://iadod.github.io/assets/IanDodds_Resume_032326 (1).pdf&embedded=true"
+  width="100%"
+  height="900px"
   style="border: none;">
 </iframe>
 
