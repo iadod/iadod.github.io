@@ -16,19 +16,19 @@ Original write up from my Instagram below.
 
 *Cerro Torre, Torre Egger, and Cerro Standhardt from the East.*
 
-![Cerro Torre's Summit Covered in Rime Ice](/assets/3c2c2594-90eb-4735-bc84-0c0305ba89ba2.JPG)
-
-*Cerro Torre's Summit Covered in Rime Ice*
-
 ![Matt Cornell Looking at the Headwall](/assets/IMG_0151.JPG)
 
-*Matt Cornell Looking at the Headwall*
+*Matt Cornell Looking at the Headwall.*
+
+![Cerro Torre's Summit Covered in Rime Ice](/assets/3c2c2594-90eb-4735-bc84-0c0305ba89ba2.JPG)
+
+*Cerro Torre's Summit Covered in Rime Ice.*
 
 ![Matt and I on the Summit](/assets/IMG_0190.JPG)
 
-*Matt and I on the Summit*
+*Matt and I on the Summit.*
 
-Original Write Up 
+Original Write Up - in reference to my Instagram Post with Photos
 
 Over the course of 6 days we climbed the Ragni route on Cerro Torre summiting on the afternoon of Thursday January 25th. We Approached from Niponino and escaped via Marconi pass. On route there were 5 teams with 12 total people from 6 countries including Italy, Romania, Bolivia, Argentina, UK and the US.
 
