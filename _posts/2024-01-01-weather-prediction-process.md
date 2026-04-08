@@ -23,6 +23,6 @@ Below is a sample of the graphical data output by NOAA.
 
 *NOAA Air Resource Laboratory GFS Meteorogram*
 
-![NOAA Air Resource Laboratory GFS Windgram ](/assets/IMG_0106 2.GIF)
+![NOAA Air Resource Laboratory GFS Windgram ](/assets/IMG_01062.GIF)
 
 *NOAA Air Resource Laboratory GFS Windgram*
