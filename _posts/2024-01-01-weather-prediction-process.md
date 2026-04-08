@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Forging Operation"
+title: "Weather Prediction Process"
 date: 2024-01-01
 categories: projects
 ---
