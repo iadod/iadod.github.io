@@ -9,7 +9,7 @@ Weather prediction in remote mountain regions is notoriously difficult. Especial
 
 Process Standardization:
 
-1. NOAA Air Resource Laboratory (ARL) READY [ready.noaa.gov]((https://www.ready.noaa.gov/READYcmet.php))https://www.ready.noaa.gov/READYcmet.php
+1. NOAA Air Resource Laboratory (ARL) READY [ready.noaa.gov]((https://www.ready.noaa.gov/READYcmet.php))
 2. Summarize graphical output into text. (few sentence description)
 3. Expedition to remote area for validation. 
 4. Messaging via Garmin InReach for updates. 
