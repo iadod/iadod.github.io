@@ -46,6 +46,7 @@ minima:
 
 header_pages:
   - abstract.md
+  - projects.md
   - resume.md
   - substack.md
 
