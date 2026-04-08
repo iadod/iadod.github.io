@@ -12,19 +12,19 @@ It took years of training climbing on rock and ice. Countless hours with a heavy
 Original write up from my Instagram below.
 
 
-![Cerro Torre, Torre Egger, and Cerro Standhardt from the East.](assets/IMG_0395.JPG)
+![Cerro Torre, Torre Egger, and Cerro Standhardt from the East.](/assets/IMG_0395.JPG)
 
 *Cerro Torre, Torre Egger, and Cerro Standhardt from the East.*
 
-![Cerro Torre's Summit Covered in Rime Ice](assets/3c2c2594-90eb-4735-bc84-0c0305ba89ba2.JPG)
+![Cerro Torre's Summit Covered in Rime Ice](/assets/3c2c2594-90eb-4735-bc84-0c0305ba89ba2.JPG)
 
 *Cerro Torre's Summit Covered in Rime Ice*
 
-![Matt Cornell Looking at the Headwall](assets/IMG_0151.JPG)
+![Matt Cornell Looking at the Headwall](/assets/IMG_0151.JPG)
 
 *Matt Cornell Looking at the Headwall*
 
-![Matt and I on the Summit](assets/IMG_0190.JPG)
+![Matt and I on the Summit](/assets/IMG_0190.JPG)
 
 *Matt and I on the Summit*
 
