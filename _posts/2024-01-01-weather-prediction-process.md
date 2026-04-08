@@ -18,4 +18,4 @@ This process was so valuable that I could offer it as a service to anyone in a r
 
 Below is a sample of the graphical data output by NOAA.
 
-![Photo description](/assets/images/forging-photo.jpg)
+![NOAA Air Resource Laboratory GFS Meteorogram](/assets/IMG_0104.GIF)
