@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-<p>As a complement to the primary work experience described in my resume, the following are some of the projects I've worked on, including some side quests. </p>
+<p>As a complement to my [primary work experience](https://iadod.github.io/resume/), the following are some projects I've worked on, including side quests. </p>
 
 {% for project in site.categories.projects reversed %}
   <div style="margin-bottom: 2rem;">
