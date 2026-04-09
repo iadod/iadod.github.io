@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-<p>Main, Side Proj and Side Quests</p>
+<p>As a complement to my primary work experience, the following are some of the projects I've worked on, including some side quests. </p>
 
 {% for project in site.categories.projects reversed %}
   <div style="margin-bottom: 2rem;">
