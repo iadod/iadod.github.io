@@ -6,7 +6,7 @@ categories: projects
 ---
 
 Went to South Africa to gauge feasibility and do structural testing for a Via Ferrata. Via Ferrata translates to "Iron Way" and is effectively a ladder installed onto a cliff.
-We had to quickly establish suppliers and vendors to deliver the steel, fabricatoin and installation of the via in a short period of time. 
+We had to quickly establish suppliers and vendors to deliver the steel, fabrication and installation of the via in a short period of time. 
 We explored the property and established several climbing routes in addition to the via prototype.
 By chance, we found a clay pot high on a cliff assumed to be for collecting and storing water. We speculated that the pot could be a few hundred years old. 
 
