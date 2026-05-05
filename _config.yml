@@ -46,7 +46,6 @@ minima:
 
 header_pages:
   - Valar.md
-  - abstract.md
   - projects.md
   - resume.md
   - substack.md
