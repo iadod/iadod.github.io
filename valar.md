@@ -8,11 +8,10 @@ permalink: /valar/
 
 A suite of procurement, estimating, and contractor management tools built for the Ward 250 HTGR pilot plant at the Utah San Rafael Energy Lab in Orangeville, Utah — developed as part of research for a Director of Projects & Procurement role at Valar Atomics.
 
-Each tool is a working Excel workbook with live formulas, conditional formatting, and dropdown validation. Download and open in Excel.
 
 ---
 
-## Procurement & Estimating Suite
+## Procurement, Estimating and Contractor Register 
 
 ### Ward 250 — Contractor Register
 Covers all 12 WBS construction phases. Two tabs: Utah local contractors and national firms with nuclear/DOE credentials. Includes prequalification tracking, RFQ status, bid received, and contract award fields with dropdown validation. 60+ real firms sourced for each trade scope.
