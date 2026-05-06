@@ -24,7 +24,7 @@ Covers all 12 WBS construction phases. Two tabs: Utah local contractors and nati
 ### Ward 250 — Construction Procurement Tool
 Master procurement and subcontractor management workbook. Eight tabs: Dashboard with live KPIs, Contractor Register, Bid Leveling (6-bidder comparison), Procurement Tracker, Change Order Log, Risk Register, Prequalification Log, and RACI Matrix. 269 live formulas.
 
-[Download Procurement Tool (.xlsx)](/assets/ward250_procurement_tool.xlsx)
+[Download Procurement Tool (.xlsx)](/assets/valar_procurement_tool.xlsx)
 
 ---
 
