@@ -6,7 +6,7 @@ permalink: /valar/
 
 # Nuclear Construction Tools
 
-A suite of procurement, estimating, and contractor management tools built for the Ward 250 HTGR pilot plant at the Utah San Rafael Energy Lab in Orangeville, Utah — developed as part of research for a Director of Projects & Procurement role at Valar Atomics.
+A suite of procurement, estimating, and contractor management tools built for the Ward 250 HTGR pilot plant at the Utah San Rafael Energy Lab in Orangeville, Utah — developed as part of research for a Director of Contracts & Procurement role at Valar Atomics.
 
 
 ---
@@ -19,7 +19,7 @@ Covers 12 WBS construction phases. Two tabs: Utah local contractors and national
 ---
 
 ### Ward 250 — Construction Procurement Tool
-Master procurement and subcontractor management workbook. Eight tabs: Dashboard with live KPIs, Contractor Register, Bid Leveling (6-bidder comparison), Procurement Tracker, Change Order Log, Risk Register, Prequalification Log, and RACI Matrix. 269 live formulas.
+Master procurement and subcontractor management workbook. Eight tabs: Dashboard with live KPIs, Contractor Register, Bid Leveling (6-bidder comparison), Procurement Tracker, Change Order Log, Risk Register, Prequalification Log, and RACI Matrix.
 
 [Download Procurement Tool (.xlsx)](/assets/valar_procurement_tool.xlsx)
 
