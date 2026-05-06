@@ -11,8 +11,6 @@ A suite of procurement, estimating, and contractor management tools built for th
 
 ---
 
-## Procurement, Estimating and Contractor Register 
-
 ### Ward 250 — Contractor Register
 Covers all 12 WBS construction phases. Two tabs: Utah local contractors and national firms with nuclear/DOE credentials. Includes prequalification tracking, RFQ status, bid received, and contract award fields with dropdown validation. 60+ real firms sourced for each trade scope.
 
