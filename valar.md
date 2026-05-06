@@ -26,7 +26,7 @@ Master procurement and subcontractor management workbook. Eight tabs: Dashboard 
 ---
 
 ### Ward 250 — HTGR Cost Estimate
-AACE Class 3 bottom-up cost estimate for a 100–250 kWt TRISO-fueled HTGR pilot plant. 90+ line items across 12 WBS sections. Benchmarked against NGNP, HTTR, Project Pele, and INL meta-analysis data. Summary, WBS detail, Assumptions, and Benchmark tabs. 338 live formulas.
+AACE Class 3 bottom-up cost estimate for a 100–250 kWt TRISO-fueled HTGR pilot plant. 90+ line items across 12 WBS sections. Benchmarked against NGNP, HTTR, Project Pele, and INL meta-analysis data. Summary, WBS detail, Assumptions, and Benchmark tabs. 
 
 [Download Cost Estimate (.xlsx)](/assets/ward250_htgr_estimate.xlsx)
 
