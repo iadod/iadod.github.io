@@ -45,7 +45,7 @@ minima:
     #   instance: example.com
 
 header_pages:
-  - Valar.md
+  - valar.md
   - projects.md
   - resume.md
   - substack.md
