@@ -4,9 +4,9 @@ title: Valar
 permalink: /valar/
 ---
 
-# Nuclear Construction Tools
+Tools
 
-A suite of procurement, estimating, and contractor management tools built for the Ward 250 HTGR pilot plant at the Utah San Rafael Energy Lab in Orangeville, Utah — developed as part of research for a Director of Contracts & Procurement role at Valar Atomics.
+Procurement, estimating, and contractor management tools built for Ward 250.
 
 
 ---
